@@ -1,5 +1,5 @@
 // Konfigurasi Worker AI
-const WORKER_URL = 'http://localhost:8787';
+const WORKER_URL = 'https://github.vildaesa.workers.dev';
 
 // State aplikasi
 let chatHistory = [];
