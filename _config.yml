@@ -1,7 +1,7 @@
 title: GitHub Profile
 description: AI-powered GitHub profile assistant for VildaEsa.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://vildaesa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Jekyll configuration
 markdown: kramdown
